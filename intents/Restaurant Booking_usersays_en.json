@@ -1,0 +1,224 @@
+[
+  {
+    "id": "23a8b9c5-f807-4cf2-bbdf-7e1d126ab87b",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Bob",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "0772518523",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bob@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "578c119e-1771-466e-ae82-bdf08c0ea610",
+    "data": [
+      {
+        "text": "Can I reserve a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " people ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "2 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a08b8756-faf4-496f-b63f-92b6609ab92b",
+    "data": [
+      {
+        "text": "My phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "0772518523",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cf658cf-18d7-438f-9d9a-85a4ee16959b",
+    "data": [
+      {
+        "text": "My Email is ",
+        "userDefined": false
+      },
+      {
+        "text": "alex@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be720b4a-7935-43b8-aaa6-dc5a6b0c7e7c",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Alex",
+        "meta": "@sys.person",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45c07284-b17e-46ad-b645-a9116d58042e",
+    "data": [
+      {
+        "text": "Make Reservation for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ac627ff-b9c5-4b01-ace2-f83e9c56e7e5",
+    "data": [
+      {
+        "text": "Make a Reservation for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e985b241-a448-4d1f-92db-03936dac2797",
+    "data": [
+      {
+        "text": "Reserve a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c803832-ecaa-453a-8bd0-abcd93374128",
+    "data": [
+      {
+        "text": "Make Reservations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5298340a-008b-4302-b3ff-15f3d32bab8c",
+    "data": [
+      {
+        "text": "Can I book a table?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
